@@ -1,0 +1,11 @@
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\obj\Debug\netcoreapp2.0\Foreach.csprojResolveAssemblyReference.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\obj\Debug\netcoreapp2.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\obj\Debug\netcoreapp2.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\obj\Debug\netcoreapp2.0\Foreach.AssemblyInfo.cs
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\bin\Debug\netcoreapp2.0\Foreach.deps.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\bin\Debug\netcoreapp2.0\Foreach.runtimeconfig.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\bin\Debug\netcoreapp2.0\Foreach.runtimeconfig.dev.json
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\bin\Debug\netcoreapp2.0\Foreach.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\bin\Debug\netcoreapp2.0\Foreach.pdb
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\obj\Debug\netcoreapp2.0\Foreach.dll
+C:\Users\mako1\OneDrive\ドキュメント\色々練習\勉強資料\C#\Foreach\Foreach\obj\Debug\netcoreapp2.0\Foreach.pdb
