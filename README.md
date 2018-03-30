@@ -1,8 +1,8 @@
 # CsForEachStatement
-forEach文（.NET Core）
+foreach文（.NET Core）
 
 ## 処理
-配列の内容をforEach文を使って出力します。
+配列の内容を`forEach`文を使って出力します。
 
 ## コード
 ```
